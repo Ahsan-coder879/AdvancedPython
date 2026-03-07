@@ -44,7 +44,6 @@ print(arr)
 71
 240
 0
-
 arr5D = np.array(range(288))
 newArr = arr5D.reshape(2,3,2,6,4)
 
@@ -53,18 +52,27 @@ print(newArr[1,0,2,3,2])
 print(newArr[0,1,0,2,1])
 print(newArr[-1,-1,-1,-1,-1])
 print(newArr[0,0,0,0,0])
-"""
+
 #1
 #33
 #58
 #102
 #143
 #215
-
-
 slicingMatrics = np.array(range(60))
 newArr = slicingMatrics.reshape(2,5,6)
 print(newArr)
 print("=======")
 arr_slice = newArr[0,1:4,1:6:2]
 print(arr_slice)
+
+#filter command
+#Where
+tbt = np.array[10,20,30,40]
+ar = tbt[(tbt >10) & (tbt < 40)]
+"""
+fourByFour = np.array(range(16))
+n_matrix = fourByFour.reshape(4,4)
+print(n_matrix)
+print("==========")
+print(n_matrix[0:2,2:])
