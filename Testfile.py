@@ -70,9 +70,14 @@ print(arr_slice)
 #Where
 tbt = np.array[10,20,30,40]
 ar = tbt[(tbt >10) & (tbt < 40)]
-"""
+
 fourByFour = np.array(range(16))
 n_matrix = fourByFour.reshape(4,4)
 print(n_matrix)
 print("==========")
 print(n_matrix[0:2,2:])
+"""
+word = "Python lecture"
+print("*" * (len(word) + 4))
+print(f"* {word} *")
+print("*" * (len(word) + 4))
