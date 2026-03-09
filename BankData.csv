@@ -1,4 +1,2 @@
-UserNames,Age,DefaultBalance
-Ahsan,31,5000
-Ahmed,17,5000
-Abdullah,22,5000
+AccountNumber,Name,Age,Balance
+123,Ahsan,25,4000.0
