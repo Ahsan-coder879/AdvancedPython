@@ -13,5 +13,70 @@ Create a Simple Banking System in Python that stores account data in a CSV file 
 	5.	Exit – Terminate the program when the user selects this option.
 
 The program should read data from the CSV file, update it when transactions occur, and save the updated data back to the file.
+
+import pandas as pd
+import random as rd
+import os
+
+file_name = "Bank.csv"
+
+if not os.path.exists("Bank.csv"):
+    df = pd.DataFrame(columns=["UserID", "UserName", "Class", "Subjects"])
+    df.to_csv("Bank.csv", index=False)
+
+while True:
+    choice = int(input("Enter 1 for account Opening \n Enter 2 for Balance Check \n Enter 3 for WithDrawl \n Enter 4 for Deposit: \n Enter 5 for Exit:"))
+    if choice ==1:
+        userDB = pd.read_csv("Bank.csv")
+        userName = input("Enter User Name:")
+        accNo = rd.randint(10000,99999)
+        balance = 5000
+        newUserDataList = [accNo,userName,balance]
+        currentrowNumber = len(userDB["AccountNumber"])
+        userDB.loc[currentrowNumber] = newUserDataList
+        userDB.to_csv("Bank.csv",index=False)
+        print("Account Created")
+    elif choice ==2:
+        userDB = pd.read_csv("Bank.csv")
+        accNo = int(input("Enter Account Number:"))
+        if accNo not in list(userDB["AccountNumber"]):
+            print("Account Number Not Found")
+            continue
+        for i in range(len(userDB)):
+            if userDB["AccountNumber"][i] == accNo:
+                nm = userDB["FullName"][i]
+                print(f"Welcome {nm} \nYour Balance is {userDB['Balance'][i]}")
+
+    elif choice ==3:
+        userDB = pd.read_csv("Bank.csv")
+        accNo = int(input("Enter Account Number:"))
+        if accNo not in list(userDB["AccountNumber"]):
+            print("Account Number Not Found")
+            continue
+        for i in range(len(userDB)):
+            if userDB["AccountNumber"][i] == accNo:
+                nm = userDB["FullName"][i]
+                amount2Wtihdraw = int(input("Enter Amount to Withdraw:"))
+                userDB['Balance'][i] = userDB['Balance'][i] - amount2Wtihdraw
+                # userDB['Balance'][i] = newBalance
+                print(f"Welcome {nm} \nYour new Balance is {userDB['Balance'][i]}")
+                userDB.to_csv("Bank.csv",index=False)
+    elif choice ==4:
+        userDB = pd.read_csv("Bank.csv")
+        accNo = int(input("Enter Account Number:"))
+        if accNo not in list(userDB["AccountNumber"]):
+            print("Account Number Not Found")
+            continue
+        for i in range(len(userDB)):
+            if userDB["AccountNumber"][i] == accNo:
+                nm = userDB["FullName"][i]
+                amount2Wtihdraw = int(input("Enter Amount to Withdraw:"))
+                userDB['Balance'][i] = userDB['Balance'][i] + amount2Wtihdraw
+                # userDB['Balance'][i] = newBalance
+                print(f"Welcome {nm} \nYour new Balance is {userDB['Balance'][i]}")
+                userDB.to_csv("Bank.csv",index=False)
+    elif choice ==5:
+        print("Exiting")
+        break
 """
 

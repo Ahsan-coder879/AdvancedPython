@@ -1,0 +1,4 @@
+StudentId,StudentName,StudentClass,Subjects
+10001,Ahmad,1,"['Math', 'English', 'Science']"
+10002,Ali,2,"['Math', 'Chemistry', 'Science']"
+10003,Abdullah,3,"['islamicStudies', 'English', 'Physics']"
