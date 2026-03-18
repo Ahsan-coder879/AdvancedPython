@@ -12,7 +12,7 @@ studentDF = pd.DataFrame(StudentAccountDictionary)
 studentDF.to_csv("StudentData.csv", index=False)
 
 while True:
-    print("\n" + "=" * 30)
+    print("\n""===========")
     choice = input(
         "1. Student Registration\n2. Student Information Fetch\n3. Student Information Update\n4. Exit\nSelection: ")
 
