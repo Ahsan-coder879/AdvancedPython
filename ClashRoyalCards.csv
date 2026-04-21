@@ -1,0 +1,530 @@
+Card Name,Card Url
+Skeletons,/img/card_ed_evo/Skellies.png
+Ice Spirit,/img/card_ed_evo/IceSpirit.png
+Bomber,/img/card_ed_evo/Bomber.png
+Bats,/img/card_ed_evo/Bats.png
+Zap,/img/card_ed_evo/Zap.png
+Giant Snowball,/img/card_ed_evo/Snowball.png
+Archers,/img/card_ed_evo/Archers.png
+Knight,/img/card_ed_evo/Knight.png
+Cannon,/img/card_ed_evo/Cannon.png
+Skeleton Barrel,/img/card_ed_evo/SkellyBarrel.png
+Firecracker,/img/card_ed_evo/Firecracker.png
+Mortar,/img/card_ed_evo/Mortar.png
+Tesla,/img/card_ed_evo/Tesla.png
+Barbarians,/img/card_ed_evo/Barbs.png
+Royal Giant,/img/card_ed_evo/RG.png
+Royal Recruits,/img/card_ed_evo/RoyalRecruits.png
+Dart Goblin,/img/card_ed_evo/DartGob.png
+Musketeer,/img/card_ed_evo/Musk.png
+Goblin Cage,/img/card_ed_evo/GoblinCage.png
+Valkyrie,/img/card_ed_evo/Valk.png
+Battle Ram,/img/card_ed_evo/Ram.png
+Furnace,/img/card_ed_evo/Furnace.png
+Wizard,/img/card_ed_evo/Wiz.png
+Royal Hogs,/img/card_ed_evo/RoyalHogs.png
+Wall Breakers,/img/card_ed_evo/WallBreakers.png
+Goblin Barrel,/img/card_ed_evo/Barrel.png
+Skeleton Army,/img/card_ed_evo/Skarmy.png
+Baby Dragon,/img/card_ed_evo/BabyD.png
+Hunter,/img/card_ed_evo/Hunter.png
+Goblin Drill,/img/card_ed_evo/GoblinDrill.png
+Witch,/img/card_ed_evo/Witch.png
+Electro Dragon,/img/card_ed_evo/eDragon.png
+Executioner,/img/card_ed_evo/Exe.png
+Goblin Giant,/img/card_ed_evo/GobGiant.png
+P.E.K.K.A,/img/card_ed_evo/PEKKA.png
+Royal Ghost,/img/card_ed_evo/Ghost.png
+Inferno Dragon,/img/card_ed_evo/InfernoD.png
+Lumberjack,/img/card_ed_evo/Lumber.png
+Mega Knight,/img/card_ed_evo/MegaKnight.png
+Goblins,/img/card_ed_hero/Gobs.png
+Knight,/img/card_ed_hero/Knight.png
+Ice Golem,/img/card_ed_hero/IceGolem.png
+Mega Minion,/img/card_ed_hero/MM.png
+Mini P.E.K.K.A,/img/card_ed_hero/MP.png
+Musketeer,/img/card_ed_hero/Musk.png
+Giant,/img/card_ed_hero/Giant.png
+Wizard,/img/card_ed_hero/Wiz.png
+Barbarian Barrel,/img/card_ed_hero/BarbBarrel.png
+Magic Archer,/img/card_ed_hero/MagicArcher.png
+Little Prince,/img/card_ed/LittlePrince.png
+Golden Knight,/img/card_ed/GoldenKnight.png
+Skeleton King,/img/card_ed/SkeletonKing.png
+Mighty Miner,/img/card_ed/MightyMiner.png
+Archer Queen,/img/card_ed/ArcherQueen.png
+Goblinstein,/img/card_ed/Goblinstein.png
+Monk,/img/card_ed/Monk.png
+Boss Bandit,/img/card_ed/BossBandit.png
+The Log,/img/card_ed/Log.png
+Miner,/img/card_ed/Miner.png
+Princess,/img/card_ed/Princess.png
+Ice Wizard,/img/card_ed/IceWiz.png
+Royal Ghost,/img/card_ed/Ghost.png
+Bandit,/img/card_ed/Bandit.png
+Fisherman,/img/card_ed/Fisherman.png
+Electro Wizard,/img/card_ed/eWiz.png
+Inferno Dragon,/img/card_ed/InfernoD.png
+Phoenix,/img/card_ed/Phoenix.png
+Magic Archer,/img/card_ed/MagicArcher.png
+Lumberjack,/img/card_ed/Lumber.png
+Night Witch,/img/card_ed/NightWitch.png
+Mother Witch,/img/card_ed/MotherWitch.png
+Ram Rider,/img/card_ed/RamRider.png
+Graveyard,/img/card_ed/Graveyard.png
+Goblin Machine,/img/card_ed/GoblinMachine.png
+Sparky,/img/card_ed/Sparky.png
+Spirit Empress,/img/card_ed/SpiritEmpress.png
+Mega Knight,/img/card_ed/MegaKnight.png
+Lava Hound,/img/card_ed/Lava.png
+Mirror,/img/card_ed/Mirror.png
+Barbarian Barrel,/img/card_ed/BarbBarrel.png
+Wall Breakers,/img/card_ed/WallBreakers.png
+Goblin Curse,/img/card_ed/GoblinCurse.png
+Rage,/img/card_ed/Rage.png
+Goblin Barrel,/img/card_ed/Barrel.png
+Guards,/img/card_ed/Guards.png
+Skeleton Army,/img/card_ed/Skarmy.png
+Vines,/img/card_ed/Vines.png
+Clone,/img/card_ed/Clone.png
+Tornado,/img/card_ed/Tornado.png
+Void,/img/card_ed/Void.png
+Baby Dragon,/img/card_ed/BabyD.png
+Dark Prince,/img/card_ed/DarkPrince.png
+Freeze,/img/card_ed/Freeze.png
+Poison,/img/card_ed/Poison.png
+Rune Giant,/img/card_ed/RuneGiant.png
+Hunter,/img/card_ed/Hunter.png
+Goblin Drill,/img/card_ed/GoblinDrill.png
+Witch,/img/card_ed/Witch.png
+Balloon,/img/card_ed/Balloon.png
+Prince,/img/card_ed/Prince.png
+Electro Dragon,/img/card_ed/eDragon.png
+Bowler,/img/card_ed/Bowler.png
+Executioner,/img/card_ed/Exe.png
+Cannon Cart,/img/card_ed/CannonCart.png
+Giant Skeleton,/img/card_ed/GiantSkelly.png
+Lightning,/img/card_ed/Lightning.png
+Goblin Giant,/img/card_ed/GobGiant.png
+X-Bow,/img/card_ed/XBow.png
+P.E.K.K.A,/img/card_ed/PEKKA.png
+Electro Giant,/img/card_ed/ElectroGiant.png
+Golem,/img/card_ed/Golem.png
+Heal Spirit,/img/card_ed/HealSpirit.png
+Ice Golem,/img/card_ed/IceGolem.png
+Suspicious Bush,/img/card_ed/SuspiciousBush.png
+Tombstone,/img/card_ed/Tombstone.png
+Mega Minion,/img/card_ed/MM.png
+Dart Goblin,/img/card_ed/DartGob.png
+Earthquake,/img/card_ed/Earthquake.png
+Elixir Golem,/img/card_ed/ElixirGolem.png
+Fireball,/img/card_ed/Fireball.png
+Mini P.E.K.K.A,/img/card_ed/MP.png
+Musketeer,/img/card_ed/Musk.png
+Goblin Cage,/img/card_ed/GoblinCage.png
+Goblin Hut,/img/card_ed/GobHut.png
+Valkyrie,/img/card_ed/Valk.png
+Battle Ram,/img/card_ed/Ram.png
+Bomb Tower,/img/card_ed/BombTower.png
+Flying Machine,/img/card_ed/FlyingMachine.png
+Hog Rider,/img/card_ed/Hog.png
+Battle Healer,/img/card_ed/BattleHealer.png
+Furnace,/img/card_ed/Furnace.png
+Zappies,/img/card_ed/Zappies.png
+Goblin Demolisher,/img/card_ed/GoblinDemolisher.png
+Giant,/img/card_ed/Giant.png
+Inferno Tower,/img/card_ed/Inferno.png
+Wizard,/img/card_ed/Wiz.png
+Royal Hogs,/img/card_ed/RoyalHogs.png
+Rocket,/img/card_ed/Rocket.png
+Barbarian Hut,/img/card_ed/BarbHut.png
+Elixir Collector,/img/card_ed/Pump.png
+Three Musketeers,/img/card_ed/3M.png
+Skeletons,/img/card_ed/Skellies.png
+Electro Spirit,/img/card_ed/ElectroSpirit.png
+Fire Spirit,/img/card_ed/FireSpirit.png
+Ice Spirit,/img/card_ed/IceSpirit.png
+Goblins,/img/card_ed/Gobs.png
+Spear Goblins,/img/card_ed/SpearGobs.png
+Bomber,/img/card_ed/Bomber.png
+Bats,/img/card_ed/Bats.png
+Zap,/img/card_ed/Zap.png
+Giant Snowball,/img/card_ed/Snowball.png
+Berserker,/img/card_ed/Berserker.png
+Archers,/img/card_ed/Archers.png
+Arrows,/img/card_ed/Arrows.png
+Knight,/img/card_ed/Knight.png
+Minions,/img/card_ed/Minions.png
+Cannon,/img/card_ed/Cannon.png
+Goblin Gang,/img/card_ed/GobGang.png
+Skeleton Barrel,/img/card_ed/SkellyBarrel.png
+Firecracker,/img/card_ed/Firecracker.png
+Royal Delivery,/img/card_ed/RoyalDelivery.png
+Skeleton Dragons,/img/card_ed/SkeletonDragons.png
+Mortar,/img/card_ed/Mortar.png
+Tesla,/img/card_ed/Tesla.png
+Barbarians,/img/card_ed/Barbs.png
+Minion Horde,/img/card_ed/Horde.png
+Rascals,/img/card_ed/Rascals.png
+Royal Giant,/img/card_ed/RG.png
+Elite Barbarians,/img/card_ed/eBarbs.png
+Royal Recruits,/img/card_ed/RoyalRecruits.png
+Skeletons,/img/c/Skellies.png
+Electro Spirit,/img/c/ElectroSpirit.png
+Fire Spirit,/img/c/FireSpirit.png
+Ice Spirit,/img/c/IceSpirit.png
+Heal Spirit,/img/c/HealSpirit.png
+Goblins,/img/c/Gobs.png
+Spear Goblins,/img/c/SpearGobs.png
+Bomber,/img/c/Bomber.png
+Bats,/img/c/Bats.png
+Zap,/img/c/Zap.png
+Giant Snowball,/img/c/Snowball.png
+Berserker,/img/c/Berserker.png
+Ice Golem,/img/c/IceGolem.png
+Suspicious Bush,/img/c/SuspiciousBush.png
+Barbarian Barrel,/img/c/BarbBarrel.png
+Wall Breakers,/img/c/WallBreakers.png
+Goblin Curse,/img/c/GoblinCurse.png
+Rage,/img/c/Rage.png
+The Log,/img/c/Log.png
+Archers,/img/c/Archers.png
+Arrows,/img/c/Arrows.png
+Knight,/img/c/Knight.png
+Minions,/img/c/Minions.png
+Cannon,/img/c/Cannon.png
+Goblin Gang,/img/c/GobGang.png
+Skeleton Barrel,/img/c/SkellyBarrel.png
+Firecracker,/img/c/Firecracker.png
+Royal Delivery,/img/c/RoyalDelivery.png
+Tombstone,/img/c/Tombstone.png
+Mega Minion,/img/c/MM.png
+Dart Goblin,/img/c/DartGob.png
+Earthquake,/img/c/Earthquake.png
+Elixir Golem,/img/c/ElixirGolem.png
+Goblin Barrel,/img/c/Barrel.png
+Guards,/img/c/Guards.png
+Skeleton Army,/img/c/Skarmy.png
+Vines,/img/c/Vines.png
+Clone,/img/c/Clone.png
+Tornado,/img/c/Tornado.png
+Void,/img/c/Void.png
+Miner,/img/c/Miner.png
+Princess,/img/c/Princess.png
+Ice Wizard,/img/c/IceWiz.png
+Royal Ghost,/img/c/Ghost.png
+Bandit,/img/c/Bandit.png
+Fisherman,/img/c/Fisherman.png
+Little Prince,/img/c/LittlePrince.png
+Skeleton Dragons,/img/c/SkeletonDragons.png
+Mortar,/img/c/Mortar.png
+Tesla,/img/c/Tesla.png
+Fireball,/img/c/Fireball.png
+Mini P.E.K.K.A,/img/c/MP.png
+Musketeer,/img/c/Musk.png
+Goblin Cage,/img/c/GoblinCage.png
+Goblin Hut,/img/c/GobHut.png
+Valkyrie,/img/c/Valk.png
+Battle Ram,/img/c/Ram.png
+Bomb Tower,/img/c/BombTower.png
+Flying Machine,/img/c/FlyingMachine.png
+Hog Rider,/img/c/Hog.png
+Battle Healer,/img/c/BattleHealer.png
+Furnace,/img/c/Furnace.png
+Zappies,/img/c/Zappies.png
+Goblin Demolisher,/img/c/GoblinDemolisher.png
+Baby Dragon,/img/c/BabyD.png
+Dark Prince,/img/c/DarkPrince.png
+Freeze,/img/c/Freeze.png
+Poison,/img/c/Poison.png
+Rune Giant,/img/c/RuneGiant.png
+Hunter,/img/c/Hunter.png
+Goblin Drill,/img/c/GoblinDrill.png
+Electro Wizard,/img/c/eWiz.png
+Inferno Dragon,/img/c/InfernoD.png
+Phoenix,/img/c/Phoenix.png
+Magic Archer,/img/c/MagicArcher.png
+Lumberjack,/img/c/Lumber.png
+Night Witch,/img/c/NightWitch.png
+Mother Witch,/img/c/MotherWitch.png
+Golden Knight,/img/c/GoldenKnight.png
+Skeleton King,/img/c/SkeletonKing.png
+Mighty Miner,/img/c/MightyMiner.png
+Barbarians,/img/c/Barbs.png
+Minion Horde,/img/c/Horde.png
+Rascals,/img/c/Rascals.png
+Giant,/img/c/Giant.png
+Inferno Tower,/img/c/Inferno.png
+Wizard,/img/c/Wiz.png
+Royal Hogs,/img/c/RoyalHogs.png
+Witch,/img/c/Witch.png
+Balloon,/img/c/Balloon.png
+Prince,/img/c/Prince.png
+Electro Dragon,/img/c/eDragon.png
+Bowler,/img/c/Bowler.png
+Executioner,/img/c/Exe.png
+Cannon Cart,/img/c/CannonCart.png
+Ram Rider,/img/c/RamRider.png
+Graveyard,/img/c/Graveyard.png
+Goblin Machine,/img/c/GoblinMachine.png
+Archer Queen,/img/c/ArcherQueen.png
+Goblinstein,/img/c/Goblinstein.png
+Monk,/img/c/Monk.png
+Royal Giant,/img/c/RG.png
+Elite Barbarians,/img/c/eBarbs.png
+Rocket,/img/c/Rocket.png
+Barbarian Hut,/img/c/BarbHut.png
+Elixir Collector,/img/c/Pump.png
+Giant Skeleton,/img/c/GiantSkelly.png
+Lightning,/img/c/Lightning.png
+Goblin Giant,/img/c/GobGiant.png
+X-Bow,/img/c/XBow.png
+Sparky,/img/c/Sparky.png
+Spirit Empress,/img/c/SpiritEmpress.png
+Boss Bandit,/img/c/BossBandit.png
+Royal Recruits,/img/c/RoyalRecruits.png
+P.E.K.K.A,/img/c/PEKKA.png
+Electro Giant,/img/c/ElectroGiant.png
+Mega Knight,/img/c/MegaKnight.png
+Lava Hound,/img/c/Lava.png
+Golem,/img/c/Golem.png
+Three Musketeers,/img/c/3M.png
+Zap,/img/card_ed/Zap.png
+Giant Snowball,/img/card_ed/Snowball.png
+Arrows,/img/card_ed/Arrows.png
+Royal Delivery,/img/card_ed/RoyalDelivery.png
+Earthquake,/img/card_ed/Earthquake.png
+Fireball,/img/card_ed/Fireball.png
+Rocket,/img/card_ed/Rocket.png
+Mirror,/img/card_ed/Mirror.png
+Barbarian Barrel,/img/card_ed/BarbBarrel.png
+Goblin Curse,/img/card_ed/GoblinCurse.png
+Rage,/img/card_ed/Rage.png
+Goblin Barrel,/img/card_ed/Barrel.png
+Vines,/img/card_ed/Vines.png
+Clone,/img/card_ed/Clone.png
+Tornado,/img/card_ed/Tornado.png
+Void,/img/card_ed/Void.png
+Freeze,/img/card_ed/Freeze.png
+Poison,/img/card_ed/Poison.png
+Lightning,/img/card_ed/Lightning.png
+The Log,/img/card_ed/Log.png
+Graveyard,/img/card_ed/Graveyard.png
+Zap,/img/card_ed/Zap.png
+Giant Snowball,/img/card_ed/Snowball.png
+Arrows,/img/card_ed/Arrows.png
+Royal Delivery,/img/card_ed/RoyalDelivery.png
+Earthquake,/img/card_ed/Earthquake.png
+Fireball,/img/card_ed/Fireball.png
+Rocket,/img/card_ed/Rocket.png
+Barbarian Barrel,/img/card_ed/BarbBarrel.png
+Goblin Curse,/img/card_ed/GoblinCurse.png
+Rage,/img/card_ed/Rage.png
+Vines,/img/card_ed/Vines.png
+Tornado,/img/card_ed/Tornado.png
+Void,/img/card_ed/Void.png
+Freeze,/img/card_ed/Freeze.png
+Poison,/img/card_ed/Poison.png
+Lightning,/img/card_ed/Lightning.png
+The Log,/img/card_ed/Log.png
+Cannon,/img/card_ed/Cannon.png
+Mortar,/img/card_ed/Mortar.png
+Tesla,/img/card_ed/Tesla.png
+Tombstone,/img/card_ed/Tombstone.png
+Goblin Cage,/img/card_ed/GoblinCage.png
+Goblin Hut,/img/card_ed/GobHut.png
+Bomb Tower,/img/card_ed/BombTower.png
+Inferno Tower,/img/card_ed/Inferno.png
+Barbarian Hut,/img/card_ed/BarbHut.png
+Elixir Collector,/img/card_ed/Pump.png
+Goblin Drill,/img/card_ed/GoblinDrill.png
+X-Bow,/img/card_ed/XBow.png
+Cannon,/img/card_ed/Cannon.png
+Tesla,/img/card_ed/Tesla.png
+Bomb Tower,/img/card_ed/BombTower.png
+Inferno Tower,/img/card_ed/Inferno.png
+Mortar,/img/card_ed/Mortar.png
+X-Bow,/img/card_ed/XBow.png
+Tombstone,/img/card_ed/Tombstone.png
+Goblin Hut,/img/card_ed/GobHut.png
+Barbarian Hut,/img/card_ed/BarbHut.png
+Goblin Drill,/img/card_ed/GoblinDrill.png
+Skeletons,/img/card_ed/Skellies.png
+Goblins,/img/card_ed/Gobs.png
+Berserker,/img/card_ed/Berserker.png
+Goblin Gang,/img/card_ed/GobGang.png
+Barbarians,/img/card_ed/Barbs.png
+Rascals,/img/card_ed/Rascals.png
+Elixir Golem,/img/card_ed/ElixirGolem.png
+Mini P.E.K.K.A,/img/card_ed/MP.png
+Goblin Cage,/img/card_ed/GoblinCage.png
+Barbarian Barrel,/img/card_ed/BarbBarrel.png
+Goblin Barrel,/img/card_ed/Barrel.png
+Skeleton Army,/img/card_ed/Skarmy.png
+Giant Skeleton,/img/card_ed/GiantSkelly.png
+Bandit,/img/card_ed/Bandit.png
+Lumberjack,/img/card_ed/Lumber.png
+Graveyard,/img/card_ed/Graveyard.png
+Boss Bandit,/img/card_ed/BossBandit.png
+Bats,/img/card_ed/Bats.png
+Knight,/img/card_ed/Knight.png
+Elite Barbarians,/img/card_ed/eBarbs.png
+Valkyrie,/img/card_ed/Valk.png
+Dark Prince,/img/card_ed/DarkPrince.png
+Rune Giant,/img/card_ed/RuneGiant.png
+Goblin Giant,/img/card_ed/GobGiant.png
+P.E.K.K.A,/img/card_ed/PEKKA.png
+Electro Giant,/img/card_ed/ElectroGiant.png
+Miner,/img/card_ed/Miner.png
+Royal Ghost,/img/card_ed/Ghost.png
+Fisherman,/img/card_ed/Fisherman.png
+Goblin Machine,/img/card_ed/GoblinMachine.png
+Spirit Empress,/img/card_ed/SpiritEmpress.png
+Mega Knight,/img/card_ed/MegaKnight.png
+Golden Knight,/img/card_ed/GoldenKnight.png
+Skeleton King,/img/card_ed/SkeletonKing.png
+Goblinstein,/img/card_ed/Goblinstein.png
+Monk,/img/card_ed/Monk.png
+Minions,/img/card_ed/Minions.png
+Royal Delivery,/img/card_ed/RoyalDelivery.png
+Minion Horde,/img/card_ed/Horde.png
+Royal Recruits,/img/card_ed/RoyalRecruits.png
+Mega Minion,/img/card_ed/MM.png
+Battle Healer,/img/card_ed/BattleHealer.png
+Guards,/img/card_ed/Guards.png
+Prince,/img/card_ed/Prince.png
+Phoenix,/img/card_ed/Phoenix.png
+Night Witch,/img/card_ed/NightWitch.png
+Mighty Miner,/img/card_ed/MightyMiner.png
+Spear Goblins,/img/card_ed/SpearGobs.png
+Bomber,/img/card_ed/Bomber.png
+Archers,/img/card_ed/Archers.png
+Cannon,/img/card_ed/Cannon.png
+Goblin Gang,/img/card_ed/GobGang.png
+Firecracker,/img/card_ed/Firecracker.png
+Skeleton Dragons,/img/card_ed/SkeletonDragons.png
+Rascals,/img/card_ed/Rascals.png
+Dart Goblin,/img/card_ed/DartGob.png
+Musketeer,/img/card_ed/Musk.png
+Goblin Hut,/img/card_ed/GobHut.png
+Flying Machine,/img/card_ed/FlyingMachine.png
+Furnace,/img/card_ed/Furnace.png
+Zappies,/img/card_ed/Zappies.png
+Goblin Demolisher,/img/card_ed/GoblinDemolisher.png
+Wizard,/img/card_ed/Wiz.png
+Three Musketeers,/img/card_ed/3M.png
+Baby Dragon,/img/card_ed/BabyD.png
+Hunter,/img/card_ed/Hunter.png
+Witch,/img/card_ed/Witch.png
+Electro Dragon,/img/card_ed/eDragon.png
+Bowler,/img/card_ed/Bowler.png
+Executioner,/img/card_ed/Exe.png
+Cannon Cart,/img/card_ed/CannonCart.png
+Goblin Giant,/img/card_ed/GobGiant.png
+X-Bow,/img/card_ed/XBow.png
+Princess,/img/card_ed/Princess.png
+Ice Wizard,/img/card_ed/IceWiz.png
+Fisherman,/img/card_ed/Fisherman.png
+Electro Wizard,/img/card_ed/eWiz.png
+Inferno Dragon,/img/card_ed/InfernoD.png
+Magic Archer,/img/card_ed/MagicArcher.png
+Mother Witch,/img/card_ed/MotherWitch.png
+Ram Rider,/img/card_ed/RamRider.png
+Sparky,/img/card_ed/Sparky.png
+Spirit Empress,/img/card_ed/SpiritEmpress.png
+Little Prince,/img/card_ed/LittlePrince.png
+Archer Queen,/img/card_ed/ArcherQueen.png
+Goblinstein,/img/card_ed/Goblinstein.png
+Bats,/img/card_ed/Bats.png
+Minions,/img/card_ed/Minions.png
+Skeleton Barrel,/img/card_ed/SkellyBarrel.png
+Skeleton Dragons,/img/card_ed/SkeletonDragons.png
+Minion Horde,/img/card_ed/Horde.png
+Mega Minion,/img/card_ed/MM.png
+Flying Machine,/img/card_ed/FlyingMachine.png
+Baby Dragon,/img/card_ed/BabyD.png
+Balloon,/img/card_ed/Balloon.png
+Electro Dragon,/img/card_ed/eDragon.png
+Inferno Dragon,/img/card_ed/InfernoD.png
+Phoenix,/img/card_ed/Phoenix.png
+Spirit Empress,/img/card_ed/SpiritEmpress.png
+Lava Hound,/img/card_ed/Lava.png
+Skeletons,/img/card_ed/Skellies.png
+Electro Spirit,/img/card_ed/ElectroSpirit.png
+Fire Spirit,/img/card_ed/FireSpirit.png
+Ice Spirit,/img/card_ed/IceSpirit.png
+Goblins,/img/card_ed/Gobs.png
+Spear Goblins,/img/card_ed/SpearGobs.png
+Bomber,/img/card_ed/Bomber.png
+Berserker,/img/card_ed/Berserker.png
+Archers,/img/card_ed/Archers.png
+Knight,/img/card_ed/Knight.png
+Goblin Gang,/img/card_ed/GobGang.png
+Firecracker,/img/card_ed/Firecracker.png
+Royal Delivery,/img/card_ed/RoyalDelivery.png
+Barbarians,/img/card_ed/Barbs.png
+Rascals,/img/card_ed/Rascals.png
+Royal Giant,/img/card_ed/RG.png
+Elite Barbarians,/img/card_ed/eBarbs.png
+Royal Recruits,/img/card_ed/RoyalRecruits.png
+Heal Spirit,/img/card_ed/HealSpirit.png
+Ice Golem,/img/card_ed/IceGolem.png
+Suspicious Bush,/img/card_ed/SuspiciousBush.png
+Dart Goblin,/img/card_ed/DartGob.png
+Elixir Golem,/img/card_ed/ElixirGolem.png
+Mini P.E.K.K.A,/img/card_ed/MP.png
+Musketeer,/img/card_ed/Musk.png
+Goblin Cage,/img/card_ed/GoblinCage.png
+Valkyrie,/img/card_ed/Valk.png
+Battle Ram,/img/card_ed/Ram.png
+Hog Rider,/img/card_ed/Hog.png
+Battle Healer,/img/card_ed/BattleHealer.png
+Furnace,/img/card_ed/Furnace.png
+Zappies,/img/card_ed/Zappies.png
+Goblin Demolisher,/img/card_ed/GoblinDemolisher.png
+Giant,/img/card_ed/Giant.png
+Wizard,/img/card_ed/Wiz.png
+Royal Hogs,/img/card_ed/RoyalHogs.png
+Three Musketeers,/img/card_ed/3M.png
+Barbarian Barrel,/img/card_ed/BarbBarrel.png
+Wall Breakers,/img/card_ed/WallBreakers.png
+Goblin Barrel,/img/card_ed/Barrel.png
+Guards,/img/card_ed/Guards.png
+Skeleton Army,/img/card_ed/Skarmy.png
+Dark Prince,/img/card_ed/DarkPrince.png
+Rune Giant,/img/card_ed/RuneGiant.png
+Hunter,/img/card_ed/Hunter.png
+Witch,/img/card_ed/Witch.png
+Prince,/img/card_ed/Prince.png
+Bowler,/img/card_ed/Bowler.png
+Executioner,/img/card_ed/Exe.png
+Cannon Cart,/img/card_ed/CannonCart.png
+Giant Skeleton,/img/card_ed/GiantSkelly.png
+Goblin Giant,/img/card_ed/GobGiant.png
+P.E.K.K.A,/img/card_ed/PEKKA.png
+Electro Giant,/img/card_ed/ElectroGiant.png
+Golem,/img/card_ed/Golem.png
+Miner,/img/card_ed/Miner.png
+Princess,/img/card_ed/Princess.png
+Ice Wizard,/img/card_ed/IceWiz.png
+Royal Ghost,/img/card_ed/Ghost.png
+Bandit,/img/card_ed/Bandit.png
+Fisherman,/img/card_ed/Fisherman.png
+Electro Wizard,/img/card_ed/eWiz.png
+Magic Archer,/img/card_ed/MagicArcher.png
+Lumberjack,/img/card_ed/Lumber.png
+Night Witch,/img/card_ed/NightWitch.png
+Mother Witch,/img/card_ed/MotherWitch.png
+Ram Rider,/img/card_ed/RamRider.png
+Goblin Machine,/img/card_ed/GoblinMachine.png
+Sparky,/img/card_ed/Sparky.png
+Spirit Empress,/img/card_ed/SpiritEmpress.png
+Mega Knight,/img/card_ed/MegaKnight.png
+Little Prince,/img/card_ed/LittlePrince.png
+Golden Knight,/img/card_ed/GoldenKnight.png
+Skeleton King,/img/card_ed/SkeletonKing.png
+Mighty Miner,/img/card_ed/MightyMiner.png
+Archer Queen,/img/card_ed/ArcherQueen.png
+Goblinstein,/img/card_ed/Goblinstein.png
+Monk,/img/card_ed/Monk.png
+Boss Bandit,/img/card_ed/BossBandit.png
